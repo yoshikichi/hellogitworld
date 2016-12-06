@@ -1,2 +1,2 @@
 # hellogitworld
-GitHub試し
+GitHub試しです。
